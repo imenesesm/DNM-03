@@ -1,0 +1,27 @@
+//Conozcamos nuestra fauna silvestre, Fotografía analoga, flora nativa, el misterioso caso del curso de ficcion policial, vestimenta y construcciones de genero//
+[{
+        "name": "Conozcamos nuestra fauna silvestre",
+        "code": "VIL630",
+        "about": "El curso propone acercar a estudiantes a la fauna silvestre de nuestro país, de una forma participativa y activa, y al mismo tiempo discutir sobre las complejidades asociadas a la conservación de especies como legislación y cumplimiento, estrategias, prioridades y también las causas (fragmentación, caza, etc). No es un curso de zoología exhaustiva, sino intenta que, a través de casos de fauna silvestre, relevar y discutir sobre conservación de biodiversidad y la relación del ser humano con la naturaleza. El curso tendrá clases lectivas asociados a controles de lectura, y también foros asociados a lecturas de temáticas atingentes, informes de observación y aporte al conocimiento vía ciencia ciudadana y un tema de investigación a desarrollar durante todo el semestre para profundizar en un tema en particular."
+    },
+    {
+        "name": "Fotografía Análoga",
+        "code": " ARO102F",
+        "about": "En este curso los estudiantes conocerán la evolución histórica de la fotografía, el manejo de la cámara fotográfica análoga, los procesos de laboratorio blanco y negro y adquirirán herramientas para la intervención y manipulación de la imagen fotográfica, explorando una amplia gama de posibilidades expresivas."
+    },
+    {
+        "name": "Flora Nativa",
+        "code": "AGC220",
+        "about": "El curso permite conocer las principales características de la flora nativa de Chile, su biología, clasificación taxonómica, distribución geográfica e importancia económica y fitogeográfica."
+    },
+    {
+        "name": "El misterioso caso del curso de ficción policial",
+        "code": " LET202G",
+        "about": "Este curso revisa las principales características y formas artísticas de la literatura y el cine del género negro, a través de la historia, por medio de clases expositivas, exhibiciones de películas representativas y presentaciones orales de los estudiantes. En este sentido, se plantea como una reflexión en torno a la representación del bien y el mal en los últimos siglos, permitiendo desarrollar una visión crítica de los contextos económicos y socioculturales que han influenciado estas ideas y a la realidad de nuestro tiempo, así como una perspectiva valórica que contribuya a la formación ética e integral de los estudiantes. Los aprendizajes serán evaluados por medio de la escritura de ensayos, participación en foros virtuales, controles de lectura y trabajos de creación, integrando una mirada interdisciplinaria a la formación del estudiante."
+    },
+    {
+    	"name": "Vestimenta y construcciones de género",
+    	"code": "IHI0520",
+    	"about": "Este curso propone un acercamiento a la historia de la vestimenta y la moda desde una perspectiva de género. Enfatiza la forma cómo las construcciones y normas sobre identidades y roles de género determinan aquello que consideramos apropiado o inconveniente, en materia de apariencias. Se espera que al término del curso el estudiantado analice críticamente y comunique en forma oral y escrita las distintas expresiones vestimentarias contemporáneas asociadas al género. Estos aprendizajes serán desarrollados mediante debates, producciones escritas, proyectos grupales y evaluados mediante ensayos , proyectos de investigación y exposiciones orales."
+    }
+]
